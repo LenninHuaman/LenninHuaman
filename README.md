@@ -8,7 +8,7 @@
 ## 🔎 About Me
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
-- 👨🏽‍💻 I’m currently a Engenier software student at Universidad Peruana de Ciencias Aplicadas, Peru
+- 👨🏽‍💻 I’m currently a Engeneer software student at Universidad Peruana de Ciencias Aplicadas, Peru
 - 🌱 I’m currently learning about Software Architecture to create better projects. 
 - 👾 I like play retro videogames.
 - 💬 Ask me about anything, I love to answer!
